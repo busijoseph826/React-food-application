@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 How To Run Project.pdf 
-/src/assets/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
